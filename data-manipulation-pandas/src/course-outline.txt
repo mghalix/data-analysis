@@ -1,0 +1,18 @@
+Course outline
+• Chapter 1: DataFrames
+    - Sorting and subsetting
+    - Creating new columns
+
+• Chapter 2: Aggregating Data
+    - Summary statistics
+    - Counting
+    - Grouped summary statistics
+
+• Chapter 3: Slicing and Indexing Data
+    - Subsetting using slicing
+    - Indexes and subsetting using indexes
+
+• Chapter 4: Creating and Visualizing Data
+    - Plotting
+    - Handling missing data
+    - Reading data into a DataFrame

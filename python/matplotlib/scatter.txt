@@ -1,0 +1,5 @@
+# When you have a time scale along the horizontal axis, the line plot is your friend.
+# But in many other cases, when you're trying to assess if there's a correlation between two variables,
+# for example, the scatter plot is the better choice.
+
+
