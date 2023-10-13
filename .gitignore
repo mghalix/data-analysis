@@ -1,2 +1,2 @@
-.vscode/
-data-manipulation-pandas/.vscode/*
+.vscode/*
+*/.vscode/*
