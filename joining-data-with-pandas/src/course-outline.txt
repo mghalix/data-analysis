@@ -1,0 +1,23 @@
+Course Outline
+- Chapter 1: Data Merging Basics
+    - Inner Join
+    - One-to-many relationships
+    - Merging multiple DataFrames
+
+- Chapter 2: Merging Tables With Different Join Types
+    - Left join
+    - Other joins
+    - Merging a table to itself
+    - Merging on indexes
+
+- Chapter 3: Advanced Merging and Concatenating
+    - Filtering joins
+    - Concatenate DataFrames together vertically
+    - Verifying integrity
+
+- Chapter 4: Merging Ordered and Time-Series Data
+    - Using merge_ordered()
+    - Using merge_asof()
+    - Selecting data with .query()
+    - Reshaping data with .melt()
+
